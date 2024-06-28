@@ -1,0 +1,2 @@
+print("nika")
+print("dodashvili")
